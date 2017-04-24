@@ -2,6 +2,7 @@ header, footer {
   background-image: url("../images/b11.png");
   background-repeat: repeat;
   color: white;
+  padding-left: 1rem;
 }
 
 body {
@@ -10,5 +11,7 @@ body {
 }
 
 footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 
 }
